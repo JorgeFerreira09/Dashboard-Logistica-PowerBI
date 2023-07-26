@@ -1,4 +1,4 @@
-# Dashboard-Logistica-PowerBI
+# Dashboard de Gestão de Faturamento e Logistica com PowerBI
 
 Dashboard de Gestão de Faturamento e Logística com Power BI.
 
