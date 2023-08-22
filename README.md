@@ -1,8 +1,6 @@
 # Dashboard de Gestão de Faturamento e Logistica com PowerBI
 
-Estou feliz em compartilhar esse Dashboard de Gestão de Faturamento e Logística com Power BI, utilizei DAX ao criar medidas personalizadas. 
-
-Este é meu terceiro projeto do gênero. 😊
+Dashboard de Gestão de Faturamento e Logística com Power BI, utilizei DAX ao criar medidas personalizadas. Este é meu terceiro projeto do gênero. 😊
 </br>
 
 O objetivo principal consistia em representar o controle de entregas e devoluções realizados nas filiais de BH, RJ e SP durante os anos de 2019, 2020 e 2021. 
